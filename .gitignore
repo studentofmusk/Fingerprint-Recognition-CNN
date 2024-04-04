@@ -1,5 +1,5 @@
 dataset/x*.npy
-preprocess.ipynb
+#preprocess.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
